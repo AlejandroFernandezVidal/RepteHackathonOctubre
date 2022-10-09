@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "e3abd4bf-74c9-41d4-b03b-bdd24c7637ae",
+		"name": "RepteHackathonOctubre",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET localhost",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
